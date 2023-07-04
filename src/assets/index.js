@@ -8,17 +8,17 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
+import Cpp from "./tech/Cpp.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
+import python from "./tech/python.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import electron from "./tech/electron.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
+import swift from "./tech/swift.png";
 import threejs from "./tech/threejs.svg";
 
 import pml from "./company/pml.png";
@@ -39,17 +39,17 @@ export {
   menu,
   close,
   css,
-  docker,
+  Cpp,
   figma,
   git,
   html,
   javascript,
-  mongodb,
+  python,
   nodejs,
   reactjs,
   electron,
   tailwind,
-  typescript,
+  swift,
   threejs,
   pml,
   cssg,

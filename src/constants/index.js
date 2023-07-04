@@ -4,17 +4,17 @@ import {
   creator,
   web,
   javascript,
-  typescript,
+  python,
   html,
   css,
   reactjs,
   electron,
   tailwind,
   nodejs,
-  mongodb,
+  swift,
   git,
   figma,
-  docker,
+  Cpp,
   pml,
   cssg,
   hzwtech,
@@ -72,8 +72,8 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Python",
+    icon: python,
   },
   {
     name: "React JS",
@@ -92,8 +92,8 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "C++",
+    icon: Cpp,
   },
   {
     name: "Three JS",
@@ -108,8 +108,8 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "Swift",
+    icon: swift,
   },
 ];
 
