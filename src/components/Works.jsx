@@ -56,6 +56,7 @@ const ProjectCard = ({
               key={tag.name}
               className={`text-[14px] ${tag.color}`}
               href={`https://www.google.com/search?q=${tag.name}`}
+              target="_blank"
             >
               #{tag.name}
             </a>
